@@ -1,0 +1,6 @@
+{
+  "name": "Adana Akdeniz Otel",
+  "description": "Adana Akdeniz Otel - Adana Konaklama. Lüks, konforlu ve merkezi konaklama deneyimi sunan seçkin butik otel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
